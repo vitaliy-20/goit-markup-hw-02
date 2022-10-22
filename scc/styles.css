@@ -137,6 +137,7 @@ li{
     font-weight: 500;
     font-size: 16px;
     line-height: 1.6;
+    cursor: pointer;
 }
 .button-portfolio:hover{
     background-color:var(--color-hover);
