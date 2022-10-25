@@ -55,6 +55,14 @@ li{
 .link:focus{
     color: var(--color-hover)
 }
+.email-header{
+    color: var(--color-info);
+    text-decoration: none;
+}
+.tel-header{
+    color:var(--color-info);
+    text-decoration: none;
+}
 /*Ефективні рішення для вашого бізнесу*/
 .main-section{
     background-color:var(--color-brand)
@@ -127,11 +135,13 @@ li{
     color: var(--color-white);
     line-height: 1.7;
     text-decoration: none;
+    font-style: normal;
 }
 .link-footer{
     color: rgba(255, 255, 255, 0.6);
     line-height: 1.7;
     text-decoration: none;
+    font-style: normal;
 }
 /*Портфоліо кнопки*/
 .button-portfolio{
