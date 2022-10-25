@@ -59,9 +59,23 @@ li{
     color: var(--color-info);
     text-decoration: none;
 }
+.email-header:hover {
+    color: var(--color-hover);
+}
+
+.email-header:focus {
+    color: var(--color-hover)
+}
 .tel-header{
     color:var(--color-info);
     text-decoration: none;
+}
+.tel-header:hover {
+    color: var(--color-hover);
+}
+
+.tel-headerk:focus {
+    color: var(--color-hover)
 }
 /*Ефективні рішення для вашого бізнесу*/
 .main-section{
